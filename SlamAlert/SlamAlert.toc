@@ -1,0 +1,10 @@
+## Interface: 30400
+## Title: Slam Alert
+## Author: Riger
+## Version: 3.30
+## Notes: Plays a sound and displays a message when you gain the Slam! buff.
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: SlamAlert
+SlamAlert.xml
+SlamAlertOptions.xml
